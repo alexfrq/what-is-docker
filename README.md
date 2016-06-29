@@ -2,6 +2,8 @@
 
 The purpose of this repository is to supplement the video with code, and to provide a simple starting point for learning about Docker containers.
 
+[![What is Docker?](http://img.youtube.com/vi/dz5_lsWlfTU/0.jpg)](http://www.youtube.com/watch?v=dz5_lsWlfTU)
+
 The “What is Docker” video discusses what is Docker and demonstrates how to build and run a simple Dockerfile.
 
 The video uses Docker
@@ -11,9 +13,9 @@ You can find more programming videos on [the DeegeU channel](http://www.deegeu.c
 ## Getting started
 
 The code is a single Dockerfile. To build the Dockerfile, enter the directory from a command prompt and enter
-'''
+```
 docker build .
-'''
+```
 
 ## Getting help
 
